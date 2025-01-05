@@ -3,14 +3,14 @@ const chalk = require('chalk')
 
 //Edit the following information to your's. Starting from this point till....--------
 //owmner v card
-global.ytname = "YT: ElitePro" //ur yt chanel name
+global.ytname = "YT: DEXMI-MD" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
+global.botname = 'DEXMI-MD' //ur bot name
 global.ownernumber = '2348065848524' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.ownername = 'DEXMI-MD' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
